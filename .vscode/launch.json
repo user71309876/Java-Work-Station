@@ -1,0 +1,19 @@
+{
+    "type": "java",
+    "name": "Debugging Java",
+    "request": "launch",
+    "cwd": "${workspaceFolder}",
+    "console": "externalTerminal", // 외부 터미널로 설정하기
+    "stopOnEntry": false,
+    "mainClass": "",
+    "args": "",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch helloworld",
+        "request": "launch",
+        "mainClass": "helloworld",
+        "projectName": "Java WorkStation_11e8f9e0"
+      }
+    ],
+  }
