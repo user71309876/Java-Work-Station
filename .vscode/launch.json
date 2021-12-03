@@ -10,6 +10,76 @@
     "configurations": [
       {
         "type": "java",
+        "name": "Launch switch_statement",
+        "request": "launch",
+        "mainClass": "switch_statement",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch random",
+        "request": "launch",
+        "mainClass": "random",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch math_problem",
+        "request": "launch",
+        "mainClass": "math_problem",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch math",
+        "request": "launch",
+        "mainClass": "math",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch GUI",
+        "request": "launch",
+        "mainClass": "GUI",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch experssion",
+        "request": "launch",
+        "mainClass": "experssion",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch input",
+        "request": "launch",
+        "mainClass": "input",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch swap_two_variable",
+        "request": "launch",
+        "mainClass": "swap_two_variable",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch variables",
+        "request": "launch",
+        "mainClass": "variables",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
+        "name": "Launch basic",
+        "request": "launch",
+        "mainClass": "basic",
+        "projectName": "Java WorkStation_11e8f9e0"
+      },
+      {
+        "type": "java",
         "name": "Launch helloworld",
         "request": "launch",
         "mainClass": "helloworld",
