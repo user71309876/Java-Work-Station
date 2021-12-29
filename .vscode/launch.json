@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java WorkStation_6b641e84"
+        },
+        {
+            "type": "java",
+            "name": "Launch nested_loop",
+            "request": "launch",
+            "mainClass": "nested_loop",
+            "projectName": "Java WorkStation_6b641e84"
+        },
+        {
+            "type": "java",
+            "name": "Launch for_loop",
+            "request": "launch",
+            "mainClass": "for_loop",
+            "projectName": "Java WorkStation_6b641e84"
+        },
+        {
+            "type": "java",
             "name": "Launch basic",
             "request": "launch",
             "mainClass": "basic",
